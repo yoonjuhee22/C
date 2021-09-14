@@ -11,6 +11,6 @@ int main() {
         for (int j = 0; j < 4; j++) {
             printf("%d ", tarr[i][j]);
         }
-        printf("\n");
+        printf("\n"); 
     }
 }
