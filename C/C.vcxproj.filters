@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="right angle inverted triangle.c">
+    <ClCompile Include="2rigntangle.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
